@@ -1,0 +1,34 @@
+.body {
+  background-color: lightblue;
+}
+
+.project {
+  display: flex;
+  flex: row;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.bottoneclear {
+  display: flex;
+  justify-content: center;
+}
+
+.titolo {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  
+  background-color: orange;
+  font-size: large;
+  justify-content: center;
+}
+
+.btnclear {
+  
+  background-color: lightgreen;
+  font-size: large;
+  justify-content: center;
+}/*# sourceMappingURL=styles.css.map */
